@@ -4,6 +4,6 @@
 
 # Poetry-NLP
 
-In this notebook, I tried to build a Natural Language Processing (NLP) model capable of learning and writing different styles poetry.
+In this notebook, I tried to build a Natural Language Processing (NLP) model capable of learning and writing poetry in different themes.
 
 🔗 Check it out on [Kaggle](https://www.kaggle.com/code/maximravichev/poetry-nlp)
